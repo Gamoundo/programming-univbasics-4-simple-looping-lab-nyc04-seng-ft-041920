@@ -12,7 +12,12 @@ n.times {puts string}
 end
 
 def return_string_array(array)
+i = 0
+while i < array.length
+  array[i].to_s
+  counter +=1
+  array
+end
 
- array.to_s
 
 end
