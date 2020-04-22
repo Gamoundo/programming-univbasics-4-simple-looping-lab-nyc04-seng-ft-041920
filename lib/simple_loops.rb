@@ -18,6 +18,7 @@ while i < array.length-1
   i +=1
 array
 end
+end
 
 
 
