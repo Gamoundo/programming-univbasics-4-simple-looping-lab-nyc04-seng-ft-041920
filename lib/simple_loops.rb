@@ -17,8 +17,9 @@ i = 0
 while i < array.length-1
   array[i] = array[i].to_s
   i +=1
-array
+
 
 end
-end
+array
 binding.pry
+end
