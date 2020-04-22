@@ -21,5 +21,5 @@ while i < array.length
 
 end
 array
-binding.pry
+
 end
