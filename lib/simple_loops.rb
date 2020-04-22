@@ -16,7 +16,9 @@ i = 0
 while i < array.length-1
   array[i].to_s
   i +=1
-  array
+
+end
+array
 end
 
 
