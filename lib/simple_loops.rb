@@ -12,7 +12,7 @@ n.times {puts string}
 end
 
 def return_string_array(array)
-  
+
  array.to_s
 
 end
