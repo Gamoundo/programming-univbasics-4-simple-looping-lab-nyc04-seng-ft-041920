@@ -1,4 +1,5 @@
 # Write your methods here
+require "pry"
 def loop_message_five_times(string)
   5.times {puts string}
 end
@@ -17,5 +18,6 @@ while i < array.length-1
   array[i] = array[i].to_s
   i +=1
 array
+binding.pry
 end
 end
